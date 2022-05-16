@@ -10,7 +10,7 @@
 </div>
   <h1>
   Hi! My name is Luke.
-  <img src="https://media.giphy.com/media/3ov9jDXQIo4FP1DRHa/giphy.gif" width="100px"/>
+  <img src="https://media.giphy.com/media/3ov9jDXQIo4FP1DRHa/giphy.gif" width="50px"/>
 </h1>
 </div>
 
