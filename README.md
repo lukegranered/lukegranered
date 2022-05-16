@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/sfVCHVKeF4xsT02LMZ/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/l0HluULNylbTu44Ao/giphy.gif" width="100"/>
   <div id="badges">
   <a href="https://www.linkedin.com/in/luke-granered/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
