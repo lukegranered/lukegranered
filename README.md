@@ -32,7 +32,5 @@ Full Stack Developer <img src="https://media.giphy.com/media/bPCwGUF2sKjyE/giphy
 
 - 💻: I love to expand future possibilities through learning.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
 ---
 
