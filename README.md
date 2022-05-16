@@ -16,5 +16,5 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" height="300"/>
+  <img src="https://giphy.com/gifs/zakkwylde-zakk-wylde-l0HUdWwVhf1xsGvyU" width="600" height="300"/>
 </div>
