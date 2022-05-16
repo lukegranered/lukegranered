@@ -15,5 +15,7 @@
 </h1>
 </div>
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/l0HUk78tTyKv6kWUE" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/zakkwylde-zakk-wylde-l0HUk78tTyKv6kWUE">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media.giphy.com/media/l0HUk78tTyKv6kWUE/giphy.gif" width="600" height="300"/>
+</div>
 
